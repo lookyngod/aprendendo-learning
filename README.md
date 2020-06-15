@@ -1,6 +1,6 @@
 !Doctype.html
 <head> Maluco é brabo </head>
-<title> Tá até ficando fácil <title>
+<title> Tá até ficando fácil </title>
   
 <body>
   <h1>a ideia é persistir, pra evoluir!</h1>
